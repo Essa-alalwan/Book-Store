@@ -1,0 +1,11 @@
+Item Name,SKU,Price,Quantity,Category
+Emma,F001,8.00,20,Fiction
+Dune,F002,10.00,2,Fiction
+Cosmos,S001,15.00,3,Science
+A Brief History of Time,S002,14.00,12,Science
+Sapiens,H001,12.00,30,History
+Educated,N001,11.00,4,Non-Fiction
+Atomic Habits,N002,12.00,40,Non-Fiction
+The Gruffalo,K001,7.00,25,Kids
+Maus,C001,16.00,5,Comics
+The Alchemist,O001,8.00,10,Other
