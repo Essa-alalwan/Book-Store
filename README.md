@@ -4,6 +4,8 @@ A simple web app that helps a bookstore track its books, stock and total value, 
 
 **Video demo:** [Watch the demo](https://drive.google.com/file/d/1iXZ8wiVd-p8HyqzDLyLRNgBY9xqbqVEo/view?usp=sharing)
 
+**Live app:** [Open the app](https://book-store-isa.streamlit.app/)
+
 ## What it does
 
 - **Add Product:** add a book (name, SKU, price, quantity, category). Empty fields and duplicate SKUs are blocked.
